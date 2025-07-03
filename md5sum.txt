@@ -22,4 +22,3 @@
 "learners/setup.md" "9d40120ff3e1e6f2e75e028d161a7c9d" "site/built/setup.md" "2025-07-03"
 "profiles/instructor-profiles.md" "6219e0420c33f3a76eb141f5986781e4" "site/built/instructor-profiles.md" "2025-07-03"
 "profiles/learner-profiles.md" "f640e785e9c7c0dde147d2fb8143f94b" "site/built/learner-profiles.md" "2025-07-03"
-"renv/profiles/lesson-requirements/renv.lock" "92ae83c2904f2017f4215aaaca8b1206" "site/built/renv.lock" "2025-07-03"
